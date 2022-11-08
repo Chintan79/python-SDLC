@@ -1,0 +1,3 @@
+> negative indexing
+It is useed in python for start of slicing from the end of the 
+string for an eexample it will give the sub-string from string.
