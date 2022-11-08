@@ -1,0 +1,27 @@
+
+1)what is software?
+
+solution of problem - collection of programs - we can operate it.
+____________________________________________________________________
+
+2)What are the types of application?
+system software : operating sofeware (windows)
+programing software : visual Studio code - dev c/c++
+application software :
+
+
+	---------------------------------
+	|		|		|
+	desktop		web		mobile
+
+	(notepad)	(flipcart)	(whatsapp)
+_______________________________________________________________________
+
+3)what is programming?
+Programming is a way to “instruct the computer to perform various tasks”.
+
+_________________________________________________________________________
+
+4)what is python?
+Python is an interpreted, object-oriented, high-level programming 
+language with dynamic semantics.
