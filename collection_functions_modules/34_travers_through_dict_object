@@ -1,0 +1,7 @@
+> There are multiple ways for this.
+> access key using the build .keys()
+> access keys without using a key()
+> Through all values using .values()
+> Through all keys and values pairs using iteams()
+> access both key and value without using iteams()
+> print iteams in key-value in pair
